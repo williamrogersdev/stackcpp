@@ -1,0 +1,8 @@
+*
+*/
+
+
+#unignore .cpp and .h
+!.gitignore
+!*.cpp
+!*.h
